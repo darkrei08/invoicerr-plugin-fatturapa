@@ -1,0 +1,21 @@
+.btn-fattura-elettronica {
+    background-color: #0066cc;
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 12px;
+    transition: background-color 0.2s;
+}
+
+.btn-fattura-elettronica:hover {
+    background-color: #004a99;
+}
+
+.btn-fattura-elettronica:disabled {
+    background-color: #a0a0a0;
+    cursor: not-allowed;
+}

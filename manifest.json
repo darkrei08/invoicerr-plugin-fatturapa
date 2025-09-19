@@ -1,0 +1,9 @@
+{
+  "name": "Fattura Elettronica Italiana",
+  "version": "1.0.1",
+  "description": "Genera XML FatturaPA v1.9 dalle fatture.",
+  "author": "darkrei08",
+  "main_script": "dist/bundle.js",
+  "main_style": "dist/style.css",
+  "settings_page": "settings.html"
+}
